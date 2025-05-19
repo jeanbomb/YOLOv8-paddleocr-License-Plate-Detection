@@ -1,7 +1,3 @@
-以下是 README 的日文和中文版段落建議，並加入「返回頁首」按鈕（Topへ／回到頂部），可直接在你的 README.md 使用：
-
----
-
 # 車牌辨識系統 (YOLOv8-paddleocr-License-Plate-Detection)
 [日本語](#日本語) | [中文](#中文)
 
@@ -70,7 +66,3 @@
 - 機能拡張（より多くの画像フォーマットのサポート、結果保存機能の追加、認識パラメータ設定の追加）
 
 [🔝 Topへ](#車牌辨識系統-yolov8-paddleocr-license-plate-detection)
-
----
-
-你可以將這段內容直接放在 README.md，並確保「回到頂部」／「Topへ」按鈕（其實是 Markdown 的錨點連結）在 GitHub 頁面上都能正常運作。如需進一步調整，請告知！
